@@ -1,10 +1,10 @@
 
-### Alexandre Moreira : Front End Develop.
+### Alexandre Moreira
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexandre-moreira)](https://github.com/alexandre-moreira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/in-alexandre-moreira/)](https://www.linkedin.com/in/in-alexandre-moreira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:4lexandre.moreira@gmail.com)](mailto:4lexandre.moreira@gmail.com)
 
-### Hellooo! 👋 Welcome to my profile
+### Hey! 👋 Welcome to my profile
 
 My name is Alexandre and I'm front-end developer.
 
